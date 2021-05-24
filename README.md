@@ -1,4 +1,4 @@
-Sleep Tracker - Kotlin [WIP]
+Somnium Sleep Tracker - Kotlin [WIP]
 ============================================================================
 Introduction
 ------------
