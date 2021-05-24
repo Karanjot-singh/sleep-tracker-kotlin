@@ -8,7 +8,7 @@ android {
     compileSdkVersion 30
     defaultConfig {
         applicationId "com.example.android.trackmysleepquality"
-        minSdkVersion 19
+        minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -57,5 +57,9 @@ dependencies {
     // Navigation
     implementation "android.arch.navigation:navigation-fragment-ktx:$navigationVersion"
     implementation "android.arch.navigation:navigation-ui-ktx:$navigationVersion"
+
+    //Chip Navigation Bar
+    implementation 'com.ismaeldivita.chipnavigation:chip-navigation-bar:1.3.4'
+
 }
 

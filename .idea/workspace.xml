@@ -28,9 +28,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42eca9a8-8bda-4f57-9d5a-65e1b5243c14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_0_beta8_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_0_beta8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ismaeldivita_chipnavigation_chip_navigation_bar_1_3_4_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/SleepTracker.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/SleepTracker.app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +59,20 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sLZCaWH9CDXUSexyHa1Mp2mZID" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -175,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621457386353</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Application name updated to Somnium">
+      <created>1621886062115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621886062115</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,17 +225,26 @@
     </ignored-roots>
     <MESSAGE value="Updated code to recommended Kotlin code style" />
     <MESSAGE value="Upgraded Gradle Version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upgraded Gradle Version" />
+    <MESSAGE value="Application name updated to Somnium" />
+    <option name="LAST_COMMIT_MESSAGE" value="Application name updated to Somnium" />
   </component>
   <component name="WindowStateProjectService">
     <state x="366" y="135" width="624" height="528" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1621456660415">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="366" y="135" width="624" height="528" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.28.1366.740@0.28.1366.740" timestamp="1621456660415" />
-    <state x="222" y="28" width="912" height="740" key="CommitChangelistDialog2" timestamp="1621457386207">
+    <state x="266" y="156" width="824" height="486" key="AndroidCreateResourceDirectoryDialog" timestamp="1621887549926">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="222" y="28" width="912" height="740" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1621457386207" />
+    <state x="266" y="156" width="824" height="486" key="AndroidCreateResourceDirectoryDialog/0.28.1366.740@0.28.1366.740" timestamp="1621887549926" />
+    <state x="266" y="156" width="824" height="486" key="AndroidCreateResourceFileDialog" timestamp="1621887610137">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="266" y="156" width="824" height="486" key="AndroidCreateResourceFileDialog/0.28.1366.740@0.28.1366.740" timestamp="1621887610137" />
+    <state x="222" y="28" width="912" height="740" key="CommitChangelistDialog2" timestamp="1621886061923">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="222" y="28" width="912" height="740" key="CommitChangelistDialog2/0.28.1366.740@0.28.1366.740" timestamp="1621886061923" />
     <state x="172" y="33" width="1022" height="732" key="SettingsEditor" timestamp="1620656117271">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
@@ -215,9 +253,9 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="278" y="134" width="800" height="530" key="Vcs.Push.Dialog.v2/0.28.1366.740@0.28.1366.740" timestamp="1621457517328" />
-    <state x="372" y="137" width="985" height="622" key="find.popup" timestamp="1621885987091">
+    <state x="372" y="137" width="985" height="622" key="find.popup" timestamp="1621888291115">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
-    <state x="372" y="137" width="985" height="622" key="find.popup/0.28.1366.740@0.28.1366.740" timestamp="1621885987091" />
+    <state x="372" y="137" width="985" height="622" key="find.popup/0.28.1366.740@0.28.1366.740" timestamp="1621888291115" />
   </component>
 </project>

@@ -5,9 +5,14 @@
     <color name="colorPrimary">#FF5722</color>
     <color name="colorPrimaryDark">#FF5722</color>
     <color name="colorAccent">#FF5722</color>
-
     <color name="orange_color">#FF5722</color>
-
     <color name="white_text_color">#FFD0C2</color>
+    <!-- Chip Navigation Bar Colors -->
+    <color name="home">#9C27B0</color>
+    <color name="records">#06810B</color>
+    <color name="resources">#2196F3</color>
+    <color name="settings">#E91E63</color>
+
+
 
 </resources>
