@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- bottom_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        app:cnb_iconColor="@color/home"/>
+    <item
+        android:id="@+id/records"
+        android:icon="@drawable/ic_records"
+        android:title="Records"
+        app:cnb_iconColor="@color/records"/>
+    <item
+        android:id="@+id/resources"
+        android:icon="@drawable/ic_resources"
+        android:title="Resources"
+        app:cnb_iconColor="@color/resources" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings"
+        app:cnb_iconColor="@color/settings" />
+</menu>

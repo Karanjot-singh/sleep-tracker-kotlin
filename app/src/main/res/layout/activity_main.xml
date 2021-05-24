@@ -7,7 +7,10 @@
         android:name="androidx.navigation.fragment.NavHostFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_gravity="bottom"
         app:defaultNavHost="true"
+        app:cnb_menuResource="@menu/bottom_navigation_bar"
+        android:background="@color/cardview_light_background"
         app:navGraph="@navigation/navigation" />
 
 </merge>
